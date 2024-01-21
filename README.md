@@ -1,1 +1,2 @@
-# Css-Parallax
+# Css-Parallax 
+by https://vk.com/jediweb
